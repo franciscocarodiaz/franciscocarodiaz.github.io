@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<WebEditorProject>
+    <!---->
+    <ProjectInformation>
+        <ProjectName>FCDWeb</ProjectName>
+        <ProjectVersion>2.0</ProjectVersion>
+        <ServerInfo ServerID="-1"></ServerInfo>
+        <S-DriveURL></S-DriveURL>
+    </ProjectInformation>
+    <!---->
+    <ProjectTreeFirstLevel>
+        <Node Type="2" LinkName="">./</Node>
+    </ProjectTreeFirstLevel>
+    <!---->
+    <ShowedFiles>
+        <ShowedFileEditor1 FirstVisibleLine="0" CursorPosition="0">./index.html</ShowedFileEditor1>
+        <ShowedFileEditor2 FirstVisibleLine="0" CursorPosition="0">./home/css/style.css</ShowedFileEditor2>
+    </ShowedFiles>
+    <!---->
+</WebEditorProject>
