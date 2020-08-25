@@ -13,8 +13,8 @@
     </ProjectTreeFirstLevel>
     <!---->
     <ShowedFiles>
-        <ShowedFileEditor1 FirstVisibleLine="0" CursorPosition="0">./index.html</ShowedFileEditor1>
-        <ShowedFileEditor2 FirstVisibleLine="0" CursorPosition="0">./cv/assets/css/main.css</ShowedFileEditor2>
+        <ShowedFileEditor1 FirstVisibleLine="197" CursorPosition="9856">./cv/index.html</ShowedFileEditor1>
+        <ShowedFileEditor2 FirstVisibleLine="219" CursorPosition="0">./cv/assets/css/main.css</ShowedFileEditor2>
     </ShowedFiles>
     <!---->
 </WebEditorProject>
